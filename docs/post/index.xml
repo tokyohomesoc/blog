@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post-rsses on Tokyo Home SOC</title>
+    <link>http://www.homesoc.tokyo/post/index.xml</link>
+    <description>Recent content in Post-rsses on Tokyo Home SOC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>Tokyo Home Security Operation Center. All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 18 Jan 2016 13:37:00 +0900</lastBuildDate>
+    <atom:link href="http://www.homesoc.tokyo/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hugo でサイトを作った</title>
+      <link>http://www.homesoc.tokyo/2016/01/18/site-crearte-from-hugo</link>
+      <pubDate>Mon, 18 Jan 2016 13:37:00 +0900</pubDate>
+      
+      <guid>http://www.homesoc.tokyo/2016/01/18/site-crearte-from-hugo</guid>
+      <description>&lt;p&gt;静的ファイルでブログをやりたくなったので &lt;strong&gt;HUGO&lt;/strong&gt; で書く事にした。&lt;/p&gt;
+
+&lt;p&gt;このページも少しテーマを改造して使っているが少し理解できてきたらちょくちょく改造していこうと思う。&lt;/p&gt;
+
+&lt;p&gt;やはり &lt;strong&gt;markdown&lt;/strong&gt; 最高である&lt;/p&gt;
+
+&lt;p&gt;今後は、&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;IDCF Cloud でコミュニティーテンプレート関係&lt;/li&gt;
+&lt;li&gt;RancherJP で話題になった事の検証&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;などに使っていくと思います&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
