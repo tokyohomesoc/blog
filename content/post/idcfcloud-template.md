@@ -10,4 +10,4 @@ banner = "banners/idcfcloud-template-01-01.png"
 
 RancherOS をIDCF Cloudさんでご利用の方がちらほら見え始めコミニュティの運営をやっている方として嬉しかったので少し使いやすくするために コミニュティテンプレートに登録しました。
 
-登録過程などは Qiitaに記載するのでこちらには、
+続きは Qiitaで

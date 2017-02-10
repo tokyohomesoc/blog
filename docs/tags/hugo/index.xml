@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tokyo Home SOC</title>
-    <link>http://www.homesoc.tokyo/tags/hugo/index.xml</link>
+    <link>https://www.homesoc.tokyo/tags/hugo/index.xml</link>
     <description>Recent content on Tokyo Home SOC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>Tokyo Home Security Operation Center. All Rights Reserved.</copyright>
-    <atom:link href="http://www.homesoc.tokyo/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.homesoc.tokyo/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>hugo でサイトを作った</title>
-      <link>http://www.homesoc.tokyo/2016/01/18/site-crearte-from-hugo</link>
+      <link>https://www.homesoc.tokyo/2016/01/18/site-crearte-from-hugo</link>
       <pubDate>Mon, 18 Jan 2016 13:37:00 +0900</pubDate>
       
-      <guid>http://www.homesoc.tokyo/2016/01/18/site-crearte-from-hugo</guid>
+      <guid>https://www.homesoc.tokyo/2016/01/18/site-crearte-from-hugo</guid>
       <description>&lt;p&gt;静的ファイルでブログをやりたくなったので &lt;strong&gt;HUGO&lt;/strong&gt; で書く事にした。&lt;/p&gt;
 
 &lt;p&gt;このページも少しテーマを改造して使っているが少し理解できてきたらちょくちょく改造していこうと思う。&lt;/p&gt;
